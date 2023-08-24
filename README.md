@@ -6,4 +6,6 @@ This is a practice project I undertook to enhance my skills in handling basic da
 
 `mnist2.ipynb` classifies all 10 digits of the entire MNIST dataset (60k images)
 
+The requirements/dependencies have been put up in `requirements.txt`.
+
 You can hit me up through the socials provided in my blog :)
